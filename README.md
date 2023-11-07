@@ -4,8 +4,8 @@ This project describes about the design, construction and fabrication of multi-p
 PROPOSED SYSTEM
 The system we have proposed consist number of features like soldier identification, for monitoring various parameters in the environment, remote monitoring and controlling mechanism etc. The system consists of Micro-controller, Ultrasonic sensor, PIR sensor, Metal detector, Gas sensor, Temperature sensor, DC motor for assembly and Wi-Fi module for wireless communication between Microcontroller system and Android phone having Android web server which we have designed as per our application. This robot will continuously check for bomb detection with the help of Metal detector and send information to the Android application using Wi-Fi connectivity. The robot will move by analysing the obstacles in the path. PIR sensor to detects the motion and it sent an image to a telegram mobile application and we can watch a live stream. The hazardous gases are detected like LPG with the help of Gas sensor interfaced in the system for safety purpose. We are able to control the movement of robot remotely using Android application.
 
+![bd- white and black](https://github.com/AmruthaMalladi/Multi-Purpose-Field-Surveillance-Robot/assets/141826082/e01b24c3-23ab-4211-9cf2-88295464b0c3)
 
-![bd](https://github.com/AmruthaMalladi/Multi-Purpose-Field-Surveillance-Robot/assets/141826082/870ffc52-11dc-4dc7-a6fc-f82da4695fb1)
 
 ![software bd](https://github.com/AmruthaMalladi/Multi-Purpose-Field-Surveillance-Robot/assets/141826082/aa6a60fb-f9e3-4b34-b287-bc1a60104f7b)
 
