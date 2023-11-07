@@ -8,3 +8,6 @@ The system we have proposed consist number of features like soldier identificati
 ![bd](https://github.com/AmruthaMalladi/Multi-Purpose-Field-Surveillance-Robot/assets/141826082/870ffc52-11dc-4dc7-a6fc-f82da4695fb1)
 
 ![software bd](https://github.com/AmruthaMalladi/Multi-Purpose-Field-Surveillance-Robot/assets/141826082/aa6a60fb-f9e3-4b34-b287-bc1a60104f7b)
+
+
+[44S_BE_1478.pptx](https://github.com/AmruthaMalladi/Multi-Purpose-Field-Surveillance-Robot/files/13286747/44S_BE_1478.pptx)
